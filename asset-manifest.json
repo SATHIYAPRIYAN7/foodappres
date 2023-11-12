@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodappres/static/css/main.0ff4245c.css",
+    "main.js": "/foodappres/static/js/main.002e04b1.js",
+    "index.html": "/foodappres/index.html",
+    "main.0ff4245c.css.map": "/foodappres/static/css/main.0ff4245c.css.map",
+    "main.002e04b1.js.map": "/foodappres/static/js/main.002e04b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff4245c.css",
+    "static/js/main.002e04b1.js"
+  ]
+}
